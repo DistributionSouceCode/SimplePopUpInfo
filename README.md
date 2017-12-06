@@ -1,6 +1,9 @@
-# SimplePopUpInfo
+# SimplePopUpInfo Guide
 
-#Usage
+# Installation
+  pod "PopUpInformation" , "0.1.1"
+  
+# Usage
 
 let modalView = PopUpInfo(frame: self.view.bounds)
 
